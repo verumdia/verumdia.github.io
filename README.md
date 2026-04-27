@@ -1,2 +1,0 @@
-# verumdia.github.io
-website
